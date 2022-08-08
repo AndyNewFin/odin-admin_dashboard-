@@ -1,0 +1,54 @@
+/* Odin Project: Admin Dashboard - Pseudocode & Planning */
+
+
+/* 
+Container Grid- Parent with 3 main child/divs
+
+
+left-child - has 3 child that are all Grid items
+
+    1) Dashboard icom
+    2) Browising icons
+    3) Settings/support/privacy icons
+
+    * Add gap between the three childs *
+
+
+right-upper child - small header section that takes up roughly 1/6 of the vertical viewing page ~ Possible flex items -> Grid items per OTP instructions
+
+    1a) Search icon AND Search bar
+    1b) Notification bell
+    1c) SMALL Profile pic icon
+    1d) User name
+    2a) Large Profile pic icone
+    2b) Greeting and user name (@user)
+    2c) Buttons: New / Upload / Share
+
+
+right-lower child - "main-content" section that take up roughly 5/6 of the vertical viewing page ~ Grid items
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
