@@ -1,20 +1,16 @@
 /* Odin Project: Admin Dashboard - Pseudocode & Planning */
-
-
 /* 
 Container Grid- Parent with 3 main child/divs
 
+I) left-child - has 3 child that are all Grid items
 
-left-child - has 3 child that are all Grid items
-
-    1) Dashboard icom
-    2) Browising icons
-    3) Settings/support/privacy icons
+    1a) Dashboard icom
+    1b) Browising icons
+    1c) Settings/support/privacy icons
 
     * Add gap between the three childs *
 
-
-right-upper child - small header section that takes up roughly 1/6 of the vertical viewing page ~ Possible flex items -> Grid items per OTP instructions
+II) right-upper child - small header section that takes up roughly 1/6 of the vertical viewing page ~ Possible flex items -> Grid items per OTP instructions
 
     1a) Search icon AND Search bar
     1b) Notification bell
@@ -24,31 +20,23 @@ right-upper child - small header section that takes up roughly 1/6 of the vertic
     2b) Greeting and user name (@user)
     2c) Buttons: New / Upload / Share
 
+III) right-lower child - "main-content" section that take up roughly 5/6 of the vertical viewing page ~ Grid items
 
-right-lower child - "main-content" section that take up roughly 5/6 of the vertical viewing page ~ Grid items
+    * Your Projects Section *
+    1a) Header text "Your Projects"
+    2a) 6 tiles/grid items - each tiles contains
+    2b) Header/title of each project
+    2c) Body/summary of the specific project
+    2d) icons : star/favorite ; eyeball/read ; share
 
+    * Announcements Section *
+    1a) 3 grid items that display site updates - each grid items contain
+    2a) Header/title of accouncement
+    2b) Body/summary of accouncement
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    * Trending Section *
+    1a) Section that contains 4 grid items detailing some user projects - each grid item has
+    2a) profile icon
+    2b) @username
+    2c) user's project name
 */
